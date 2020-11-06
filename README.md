@@ -1,5 +1,5 @@
 # POO Proyecto 1 Equipo 12 :fireworks:
-### Proyecto de enfoque académico para comprender el uso de colecciones en Java.
+### Proyecto de enfoque académico para comprender el uso de colecciones en Java en la materia de Programación Orientada a Objetos.
 
 Desarrollado por:
 
