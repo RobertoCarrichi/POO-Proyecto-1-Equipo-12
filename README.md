@@ -15,4 +15,4 @@ Estudiantes de la Facultad de inteniería, **UNAM**.
 
 El reporte de proyecto está disponible [aquí](https://www.overleaf.com/read/mmdxqmkpcyzc).
 
-Puedes entrar a el código fuente en la siguiente [dirección]. (./ProyectoPOOI1/src/proyectopooi1)
+Puedes entrar a el código fuente en la siguiente [dirección](./ProyectoPOOI1/src/proyectopooi1).
