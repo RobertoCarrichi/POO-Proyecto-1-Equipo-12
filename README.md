@@ -11,6 +11,8 @@ Desarrollado por:
 
 Estudiantes de la Facultad de inteniería, **UNAM**.
 
+### Información importante
+
 El reporte de proyecto está disponible [aquí](https://www.overleaf.com/read/mmdxqmkpcyzc).
 
-Para entrar a directamente a los archivos fuente puedes ir a la dirección: (./ProyectoPOOI1/src/proyectopooi1).
+Puedes entrar a el código fuente en la siguiente [dirección]. (./ProyectoPOOI1/src/proyectopooi1)
