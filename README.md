@@ -1,5 +1,5 @@
 # POO Proyecto 1 Equipo 12
-##Proyecto de enfoque académico para comprender el uso de colecciones en Java.
+## Proyecto de enfoque académico para comprender el uso de colecciones en Java.
 
 Desarrollado por:
 
@@ -9,4 +9,6 @@ Desarrollado por:
 
   Páez López, Didier Marcelo
 
-Estudiantes de la Facultad de inteniería, UNAM.
+Estudiantes de la Facultad de inteniería, **UNAM**.
+
+El reporte de proyecto está disponible [aquí](https://www.overleaf.com/read/mmdxqmkpcyzc).
