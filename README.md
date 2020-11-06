@@ -1,13 +1,13 @@
-# POO Proyecto 1 Equipo 12
-## Proyecto de enfoque académico para comprender el uso de colecciones en Java.
+# POO Proyecto 1 Equipo 12 :fireworks:
+### Proyecto de enfoque académico para comprender el uso de colecciones en Java.
 
 Desarrollado por:
 
-  Carrichi de la Cruz, Roberto Carlos
+-  Carrichi de la Cruz, Roberto Carlos
 
-  Miranda Bueno, Fatima Yolanda
+-  Miranda Bueno, Fatima Yolanda
 
-  Páez López, Didier Marcelo
+- Páez López, Didier Marcelo
 
 Estudiantes de la Facultad de inteniería, **UNAM**.
 
